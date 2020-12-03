@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+title = "Resent posts"
+subtitle = "Triumph of Russian skiers"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "CCS"
     publication_type = ""
-    author = ""
+    author = "rikonyukhov"
     exclude_featured = false
   
 [design]
@@ -53,7 +53,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
+  # image = "Picture_1_v_0.1.png"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -66,3 +66,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+
+Skiers Bolshunov and Sorina became medalists of the first stage of the World Cup - 2020/21
+
+Congratulations!!!
+
+Rezults:
+- 28.11 A. Bolshunov: third place
+- 29.11 A. Bolshunov: second place
+- 29.11 T. Sorina: second place
+
+Good luck in the upcoming races!
+
+
+
